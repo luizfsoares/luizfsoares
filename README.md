@@ -45,6 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizfsoares&show_icons=true&theme=midnight-purple" alt="Luiz Cardoso" /></p>
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
-  <img src="https://profile-counter.glitch.me/jpvt/count.svg" />
+  <img src="https://profile-counter.glitch.me/luizfsoares/count.svg" />
 </p>
 
