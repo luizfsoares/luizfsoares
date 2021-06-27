@@ -43,6 +43,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfsoares&layout=compact&theme=midnight-purple" alt="Luiz Cardoso" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizfsoares&show_icons=true&theme=midnight-purple" alt="Luiz Cardoso" /></p>
+<br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 <p align="center"> 
   <i><b>Profile Visitor Count...</b></i><br>
   <img src="https://profile-counter.glitch.me/luizfsoares/count.svg" />
