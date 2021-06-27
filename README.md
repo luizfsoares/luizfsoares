@@ -5,7 +5,7 @@
 
 - 💻 I’m currently learning about **Frontend | Data | Artificial Intelligence**
 
-- 💼 I’m currently work as a Frontend Developer Intern at [Ana Health](https://www.anahealth.app/) | Research Intern at [ARIA - Artificial Intelligence Applications Laboratory](https://aria.ci.ufpb.br/) | Member of [TAIL- Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
+- 💼 I’m currently work as a Frontend Developer Intern at [Ana Health](https://www.anahealth.app/) <br/> Research Intern at [ARIA - Artificial Intelligence Applications Laboratory](https://aria.ci.ufpb.br/) | Member of [TAIL- Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
 
 - 💬 Ask me about **Python, AI, Data, NLP, React.js, HTML , CSS, JavaScript**
 
