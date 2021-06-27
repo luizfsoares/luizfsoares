@@ -39,7 +39,7 @@
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
     </a> 
-</p>
+</p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfsoares&layout=compact&theme=midnight-purple" alt="Luiz Cardoso" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizfsoares&show_icons=true&theme=midnight-purple" alt="Luiz Cardoso" /></p>
