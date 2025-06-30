@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋🏻, I'm Luiz Felipe Soares Cardoso</h1>
-<h3 align="center">I'm a Student, Developer, Learner!</h3>
+<h3 align="center">I'm a Developer!</h3>
 
 
 
-- 💻 I’m currently learning about **Frontend | Data | Artificial Intelligence**
+- 💻 I’m currently learning about **Twilio | Frontend | Data | Artificial Intelligence**
 
-- 💼 I’m currently work as a Frontend Developer Intern at [Ana Health](https://www.anahealth.app/) | Research Intern at [ARIA - Artificial Intelligence Applications Laboratory](https://aria.ci.ufpb.br/) | Member of [TAIL- Technology and Artificial Intelligence League](https://aria.ci.ufpb.br/tail/)
+- 💼 I’m currently work as a FullStack Developer at [Ana Health](https://www.anahealth.app/)
 
-- 💬 Ask me about **Python, AI, Data, NLP, React.js, HTML , CSS, JavaScript**
+- 💬 Ask me about **Twioio, Python, AI, Data, NLP, React.js, HTML , CSS, JavaScript**
 
 - 📧 How to reach me? **Connect to me via Email [Luiz Cardoso](luizfelipe.sc1999@gmail.com)**
 
